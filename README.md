@@ -1,5 +1,7 @@
 # SCALE AI Foundation Skills
 
+Join 500+ creative agencies, DTC brands, and performance marketing teams inside SCALE AI: https://www.skool.com/scale-ai/about
+
 Three foundation skills for the SCALE AI skills library. Every other SCALE AI skill (hook writers, ad script writers, brief generators, etc.) reads the files these three produce before writing anything — so run these first when onboarding a new brand or client.
 
 Run them in this order:
