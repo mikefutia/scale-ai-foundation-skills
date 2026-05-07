@@ -4,6 +4,8 @@ Join 500+ creative agencies, DTC brands, and performance marketing teams inside 
 
 Three foundation skills for the SCALE AI skills library. Every other SCALE AI skill (hook writers, ad script writers, brief generators, etc.) reads the files these three produce before writing anything — so run these first when onboarding a new brand or client.
 
+Note: for access to all 7 skills files, plus more AI automations & tools, check out SCALE AI: https://www.skool.com/scale-ai/about
+
 Run them in this order:
 
 1. **brand-dna-builder** → produces `brand/brand-dna.md`
